@@ -1,4 +1,8 @@
+<!-- http://localhost:8000/index4.php?id=1 -->
+
 <?php
+
+
 
 $jsonData = file_get_contents('rooms.json');
 
